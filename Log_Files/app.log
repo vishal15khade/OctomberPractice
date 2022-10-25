@@ -1,0 +1,52 @@
+21:42:12.764 [main]INFO  BaseClass - New class Started
+21:42:12.810 [main]INFO  BaseClass - test2A executed
+21:42:12.857 [main]INFO  BaseClass - test2B executed
+21:42:12.873 [main]INFO  BaseClass - Class ends
+22:22:29.767 [main]INFO  BaseClass - New class Started
+22:22:29.814 [main]INFO  BaseClass - test1A executed
+22:22:29.892 [main]INFO  BaseClass - test1B executed
+22:22:29.908 [main]INFO  BaseClass - Class ends
+22:22:29.908 [main]INFO  BaseClass - New class Started
+22:22:29.908 [main]INFO  BaseClass - test2A executed
+22:22:29.923 [main]INFO  BaseClass - test2B executed
+22:22:29.939 [main]INFO  BaseClass - Class ends
+22:44:35.450 [main]INFO  BaseClass - New class Started
+22:44:35.497 [main]INFO  BaseClass - test1A executed
+22:44:35.528 [main]INFO  BaseClass - test1B executed
+22:44:35.528 [main]INFO  BaseClass - Class ends
+22:44:35.543 [main]INFO  BaseClass - New class Started
+22:44:35.543 [main]INFO  BaseClass - test2A executed
+22:44:35.543 [main]INFO  BaseClass - test2B executed
+22:44:35.543 [main]INFO  BaseClass - Class ends
+22:49:37.410 [main]INFO  BaseClass - New class Started
+22:49:37.457 [main]INFO  BaseClass - test1A executed
+22:49:37.488 [main]INFO  BaseClass - test1B executed
+22:49:37.488 [main]INFO  BaseClass - Class ends
+22:49:37.504 [main]INFO  BaseClass - New class Started
+22:49:37.504 [main]INFO  BaseClass - test2A executed
+22:49:37.504 [main]INFO  BaseClass - test2B executed
+22:49:37.519 [main]INFO  BaseClass - Class ends
+22:51:11.682 [main]INFO  BaseClass - New class Started
+22:51:11.714 [main]INFO  BaseClass - test1A executed
+22:51:11.745 [main]INFO  BaseClass - test1B executed
+22:51:11.761 [main]INFO  BaseClass - Class ends
+22:51:11.761 [main]INFO  BaseClass - New class Started
+22:51:11.761 [main]INFO  BaseClass - test2A executed
+22:51:11.776 [main]INFO  BaseClass - test2B executed
+22:51:11.776 [main]INFO  BaseClass - Class ends
+22:52:40.639 [main]INFO  BaseClass - New class Started
+22:52:40.671 [main]INFO  BaseClass - test1A executed
+22:52:40.889 [main]INFO  BaseClass - test1B executed
+22:52:40.905 [main]INFO  BaseClass - Class ends
+22:52:40.905 [main]INFO  BaseClass - New class Started
+22:52:40.905 [main]INFO  BaseClass - test2A executed
+22:52:40.921 [main]INFO  BaseClass - test2B executed
+22:52:40.921 [main]INFO  BaseClass - Class ends
+22:58:35.156 [main]INFO  BaseClass - New class Started
+22:58:35.187 [main]INFO  BaseClass - test1A executed
+22:58:35.218 [main]INFO  BaseClass - test1B executed
+22:58:35.218 [main]INFO  BaseClass - Class ends
+22:58:35.234 [main]INFO  BaseClass - New class Started
+22:58:35.234 [main]INFO  BaseClass - test2A executed
+22:58:35.234 [main]INFO  BaseClass - test2B executed
+22:58:35.234 [main]INFO  BaseClass - Class ends
